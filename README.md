@@ -69,10 +69,10 @@ The application will start running on http://127.0.0.1:5000/.
   - SciPy
   - Bootstrap (via CDN)
     
-**Contributing**
+## Contributing
   If you would like to contribute to this project, please fork the repository and submit a pull request. 
   Make sure to follow the coding standards and include tests for any new features.
 
-**Contact**
+## Contact
   For any questions or feedback, please contact darshni211196@gmail.com
   
